@@ -1,0 +1,67 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+.Rproj.user/*
+.Rproj.user/shared/notebooks/*
+.Rproj.user/shared/sources/*
+.Rproj.user/shared/collaboration/*
+.Rproj.user/shared/profiles/*
+.Rproj.user/shared/tmp/*
+.Rproj.user/shared/plots/*
+.Rproj.user/shared/snapshots/*
+.Rproj.user/shared/project-shared/*
+.Rproj.user/shared/history/*
+.Rproj.user/shared/scripting/*
+.Rproj.user/shared/state/*
+.Rproj.user/shared/secret_files/*
+.Rproj.user/shared/conflicted_files/*
+.Rproj.user/shared/backup/*
+.Rproj.user/shared/workspace.xml
+
+
+# Output files
+/*.Rproj.user/
+*.pdf
+*.html
+
+# R Environment variables
+.Renviron
+.Renviron.local
+
+# R packaging
+.Rbuildignore
+
+# Compiled files
+*.o
+*.so
+*.dll
+*.dylib
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.old
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
